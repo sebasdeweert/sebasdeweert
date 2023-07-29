@@ -1,11 +1,7 @@
 Hi 👋 My name is Sebastiaan de Weert
 ====================================
-
-Co-Owner and CTO at HealthyFeeling
-----------------------------------
-
 * 🌍  I'm based in Utrecht, Netherlands.
-* 🚀  I'm currently freelancing and working on some awesome iOS & android apps, backend and frontend.
+* 🚀  I'm currently freelancing and working on some awesome iOS & Android apps, backend, frontend and hardware.
 
 ### Skills
 
